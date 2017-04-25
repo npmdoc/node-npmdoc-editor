@@ -1,4 +1,7 @@
-# api documentation for  [editor (v1.0.0)](https://github.com/substack/node-editor)  [![npm package](https://img.shields.io/npm/v/npmdoc-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-editor)
+# npmdoc-editor
+
+#### basic api documentation for  [editor (v1.0.0)](https://github.com/substack/node-editor)  [![npm package](https://img.shields.io/npm/v/npmdoc-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-editor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-editor)
+
 #### launch $EDITOR in your program
 
 [![NPM](https://nodei.co/npm/editor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/editor)
@@ -64,7 +67,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
